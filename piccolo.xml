@@ -6,11 +6,11 @@
             <BuildUrl
             	id="build"
             	title="Click to download Update"
-            	description="Download newest Build">https://sourceforge.net/projects/resurrectionremix/files/piccolo/</BuildUrl>
+            	description="Download newest Build">downloads.resurrectionremix.com/piccolo/RR-N-v5.8.4-20170830-piccolo-Official.zip</BuildUrl>
             <AllUrl
                 id="all"
                 title="See all Builds"
-                description="Take a look at all Builds">https://sourceforge.net/projects/resurrectionremix/files/piccolo/</AllUrl>
+                description="Take a look at all Builds">downloads.resurrectionremix.com/piccolo/</AllUrl>
 	</piccolo>
     </Stable>
 </SlimOTA>
