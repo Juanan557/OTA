@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+	 <piccolo>
+            <Filename>RR-N-v5.8.4-20170830-piccolo-Official.zip</Filename>
+            <BuildUrl
+            	id="build"
+            	title="Click to download Update"
+            	description="Download newest Build">https://sourceforge.net/projects/resurrectionremix/files/piccolo/</BuildUrl>
+            <AllUrl
+                id="all"
+                title="See all Builds"
+                description="Take a look at all Builds">https://sourceforge.net/projects/resurrectionremix/files/piccolo/</AllUrl>
+	</piccolo>
+    </Stable>
+</SlimOTA>
