@@ -5,12 +5,8 @@
             <Filename>RR-N-v5.8.4-20170831-piccolo-Official.zip</Filename>
             <BuildUrl
             	id="build"
-            	title="Click to download Update"
-            	description="Download newest Build">https://downloads.sourceforge.net/project/resurrectionremix/piccolo/RR-N-v5.8.4-20170830-piccolo-Official.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fresurrectionremix%2Ffiles%2Fpiccolo%2F&ts=1504209851&use_mirror=10gbps-io</BuildUrl>
-            <AllUrl
-                id="all"
-                title="See all Builds"
-                description="Take a look at all Builds">https://sourceforge.net/projects/resurrectionremix/files/piccolo/</AllUrl>
+            	title="Click para ver Builds"
+            	description="Descarga la más reciente">https://sourceforge.net/projects/resurrectionremix/files/piccolo/</BuildUrl>
 	</piccolo>
     </Stable>
 </SlimOTA>
