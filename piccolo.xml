@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <piccolo>
-            <Filename>RR-N-v5.8.4-20170830-piccolo-Official.zip</Filename>
+            <Filename>RR-N-v5.8.4-20170831-piccolo-Official.zip</Filename>
             <BuildUrl
             	id="build"
             	title="Click to download Update"
-            	description="Download newest Build">downloads.resurrectionremix.com/piccolo/RR-N-v5.8.4-20170830-piccolo-Official.zip</BuildUrl>
+            	description="Download newest Build">downloads.resurrectionremix.com/piccolo/RR-N-v5.8.4-20170831-piccolo-Official.zip</BuildUrl>
             <AllUrl
                 id="all"
                 title="See all Builds"
